@@ -13,18 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-theme: jekyll-theme-so-simple
-# remote_theme: mmistakes/so-simple-theme
-skin: "/assets/css/skins/default.css"
-locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
-baseurl: # the subpath of your site, e.g. "/blog"
+# theme: jekyll-theme-so-simple
+remote_theme: mmistakes/so-simple-theme@3.2.0
+skin: "/assets/css/skins/light.css"
+locale: ko-KR
+title: "HASHBOX"
+description: "기록을 담은 상자"
+baseurl: / # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+logo: "/assets/images/avatar.jpg" # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
-read_time: # reading time estimates, e.g. true
-words_per_minute: # 200
+read_time: true # reading time estimates, e.g. true
+words_per_minute: 200 # 200
 mathjax: # MathJax equations, e.g. true
 google_fonts:
   - name: "Source Sans Pro"
@@ -35,14 +35,14 @@ google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: # site's Twitter username, e.g. "mmistakes"
+  username: slaysd # site's Twitter username, e.g. "mmistakes"
 
 # Liquid
 liquid:
   error_mode: strict
 
 # Build settings
-permalink: /:categories/:title/
+permalink: /:year/:month/:title/
 markdown: kramdown
 feed:
   path: atom.xml
@@ -88,10 +88,10 @@ defaults:
 
 # Site Author
 author:
-  name:
-  picture:
-  email:
-  twitter:
+  name: Jeeseung Han
+  picture: "/assets/images/avatar.jpg"
+  email: jinh574@naver.com
+  twitter: slaysd
   links:
     - title:
       url:
@@ -99,6 +99,18 @@ author:
 
 # Footer Links
 footer_links:
+  - title: GitHub
+    url: https://github.com/jinh574
+    icon: fab fa-github-square
+  - title: Linked In
+    url: https://linkedin.com/지승-한-595005128
+    icon: fab fa-linkedin
+  - title: Facebook
+    url: https://facebook.com/jinh574
+    icon: fab fa-facebook-square
+  - title: Twitter
+    url: https://twitter.com/slaysd
+    icon: fab fa-twitter-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
