@@ -23,5 +23,5 @@ Intelligent Service Team Leader, *[IntelliSys Corporation](http://intellisys.co.
 ### Publications
 {% assign thesis = site.publications | sort: 'date' | reverse %}
 {% for v in thesis %}
-- **{{ v.title }}**<br/>{{v.authors}}<br/>{{v.publication}}
+- [**{{ v.title }}**]({{v.url}})<br/>{{v.authors}}<br/>{{v.publication}}
 {% endfor %}
