@@ -11,7 +11,7 @@ I'm a **Data Scientist** who studies computer vision. and I also a **DevOps Engi
 {: .notice}
 
 ### Education
-Master of Computer Science, *[Intelligent Data Systems Laboratory](http://ids.snu.ac.kr/) Seoul National University, Korea* (2018~now)
+Master of Computer Science and Engineering (MCSE), *[Intelligent Data Systems Laboratory](http://ids.snu.ac.kr/) Seoul National University, Korea* (2018~now)
 
 Bachelor of Computer Science, *Konkuk University, Korea* (2010~2016)
 
