@@ -12,18 +12,27 @@ I'm a **Data Scientist** who studies object detection. slash I also a **DevOps E
 
 ### Education
 * Master of Computer Science and Engineering (MCSE), *[Intelligent Data Systems Laboratory](http://ids.snu.ac.kr/) Seoul National University, Korea* (2018~now)
+    - Member of Intelligence Data Systems Laboratory
+    - Teaching Assistant of Graduate School Recommendation System 2020
 
 * Bachelor of Computer Science and Engineering (BCSE), *Konkuk University, Korea* (2010~2016)
-
+    - President of the student council of Konkuk Information and Communications Undergraduate College
+    - Director of Information Technology, Konkuk Student Council
+    - Completed Cisco Certified Network Associate (CCNA) Routing and Switching: Introduction to Networks
+    - Leave of absence for military conscription, Republic of Korea Military Police (2014–2016)
 
 ### Experience
-* Intelligent Service Team Leader, *[IntelliSys Corporation](http://intellisys.co.kr)* (2018~now)
+* Leader, Intelligence Team, Architect and Cloud DevOps Engineer, *[IntelliSys Corporation](http://intellisys.co.kr)* (2018~now)
     - Led packaging and installation of visual intelligence engine of company L, including convert to Triton inference server for models
     - Conducted research of fashion item detector for service based on DeepLab using PyTorch
     - Implemented infrastructure using AWS Cloud, Kubernetes, Terraform
     - Designed fashion AI inference system using PyTorch, RabbitMQ
     - Instructed microservice architecture (MSA) for Fitzme service using Spring boot and Django
 
+* Working scholars, Infrastructure network management, Zungwon Engineering & System, co., ltd. (2010-2012, 2016)
+    - Monitored network status for Konkuk University, including wireless access point activity
+    - Supported installation and set-up of routers and switches at newly constructed engineering building
+    - Assisted in network installation for student and special events
 
 ### Publications
 {% assign thesis = site.publications | sort: 'date' | reverse %}
