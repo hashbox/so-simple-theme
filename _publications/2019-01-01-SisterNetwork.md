@@ -1,7 +1,7 @@
 ---
 collection: publications
 title: "SisterNetwork: Enhancing Robustness of Multi-label Classification with Semantically Segmented Images"
-authors: "Holim Lim, <U>Jeeseung Han</U>, Sang-goo Lee"
+authors: "Holim Lim*, <U>Jeeseung Han</U>*, Sang-goo Lee"
 publication: "International Conference on Ubiquitous Information Management and Communication (IMCOM 2019), pp. 1092-1099"
 keywords: "Multi-label classification, Semantic segmentation, Fashion"
 year: Jan, 2019
