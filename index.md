@@ -1,23 +1,28 @@
 ---
 layout: about
 show_excerpts: true
-title: Jeeseung Han (한지승)
+title: Jeeseung Han
 ---
 
-#### Data Scientist (feat. DevOps)
+#### Data Scientist (slash DevOps)
 ---
 Hello, I'm Jeeseung Han. <br/>
-I'm a **Data Scientist** who studies computer vision. and I also a **DevOps Engineer**.
+I'm a **Data Scientist** who studies object detection. slash I also a **DevOps Engineer**.
 {: .notice}
 
 ### Education
-Master of Computer Science and Engineering (MCSE), *[Intelligent Data Systems Laboratory](http://ids.snu.ac.kr/) Seoul National University, Korea* (2018~now)
+* Master of Computer Science and Engineering (MCSE), *[Intelligent Data Systems Laboratory](http://ids.snu.ac.kr/) Seoul National University, Korea* (2018~now)
 
-Bachelor of Computer Science, *Konkuk University, Korea* (2010~2016)
+* Bachelor of Computer Science and Engineering (BCSE), *Konkuk University, Korea* (2010~2016)
 
 
 ### Experience
-Intelligent Service Team Leader, *[IntelliSys Corporation](http://intellisys.co.kr)* (2018~now)
+* Intelligent Service Team Leader, *[IntelliSys Corporation](http://intellisys.co.kr)* (2018~now)
+    - Led packaging and installation of visual intelligence engine of company L, including convert to Triton inference server for models
+    - Conducted research of fashion item detector for service based on DeepLab using PyTorch
+    - Implemented infrastructure using AWS Cloud, Kubernetes, Terraform
+    - Designed fashion AI inference system using PyTorch, RabbitMQ
+    - Instructed microservice architecture (MSA) for Fitzme service using Spring boot and Django
 
 
 ### Publications
