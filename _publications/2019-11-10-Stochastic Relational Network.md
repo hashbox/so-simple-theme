@@ -1,7 +1,7 @@
 ---
 collection: publications
 title: "Stochastic Relational Network"
-authors: "Kang Min Yoo, Hyunsoo Cho, Hanbit Lee, Jeeseung Han, Sang-goo Lee"
+authors: "Kang Min Yoo, Hyunsoo Cho, Hanbit Lee, <U>Jeeseung Han</U>, Sang-goo Lee"
 publication: "The First Workshop on Statistical Deep Learning in Computer Vision 2019 (ICCV Workshop)"
 keywords: "visual processing, relational reasoning, stochastic neural network"
 year: Nov, 2019
