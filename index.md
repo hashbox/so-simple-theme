@@ -29,7 +29,7 @@ I'm a **Data Scientist** who studies object detection. slash I also a **DevOps E
     - Designed fashion AI inference system using PyTorch, RabbitMQ
     - Instructed microservice architecture (MSA) for Fitzme service using Spring boot and Django
 
-* Working scholars, Infrastructure network management, Zungwon Engineering & System, co., ltd. (2010-2012, 2016)
+* Working scholars, Infrastructure network management, *Zungwon Engineering & System, Inc.* (2010-2012, 2016)
     - Monitored network status for Konkuk University, including wireless access point activity
     - Supported installation and set-up of routers and switches at newly constructed engineering building
     - Assisted in network installation for student and special events
