@@ -23,7 +23,7 @@ I'm a **Data Scientist** who studies object detection. slash I also a **DevOps E
 
 ### Experience
 * Leader, Intelligence Team, Architect and Cloud DevOps Engineer, *[IntelliSys Corporation](http://intellisys.co.kr)* (2018~now)
-    - Led packaging and installation of visual intelligence engine of company L, including convert to Triton inference server for models
+    - Led packaging and installation of visual intelligence engine, including convert to Triton inference server for models
     - Conducted research of fashion item detector for service based on DeepLab using PyTorch
     - Implemented infrastructure using AWS Cloud, Kubernetes, Terraform
     - Designed fashion AI inference system using PyTorch, RabbitMQ
