@@ -4,10 +4,10 @@ show_excerpts: true
 title: Jeeseung Han
 ---
 
-#### Data Scientist (slash DevOps)
+#### Data Scientist (and is also DevOps)
 ---
 Hello, I'm Jeeseung Han. <br/>
-I'm a **Data Scientist** who studies object detection. slash I also a **DevOps Engineer**.
+I'm a **Data Scientist** who studies object detection, and is also also a **DevOps Engineer**.
 {: .notice}
 
 ### Education
