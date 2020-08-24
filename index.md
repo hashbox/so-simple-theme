@@ -22,14 +22,14 @@ I'm a **Data Scientist** who studies object detection, and is also also a **DevO
     - Leave of absence for military conscription, Republic of Korea Military Police (2014–2016)
 
 ### Experience
-* Leader, Intelligence Team, Architect and Cloud DevOps Engineer, *[IntelliSys Corporation](http://intellisys.co.kr)* (2018~now)
+* Team Leader, Intelligence, Architect and Cloud DevOps Engineer, *[IntelliSys Corporation](http://intellisys.co.kr)* (2018~now)
     - Led packaging and installation of visual intelligence engine, including convert to Triton inference server for models
     - Conducted research of fashion item detector for service based on DeepLab using PyTorch
     - Implemented infrastructure using AWS Cloud, Kubernetes, Terraform
     - Designed fashion AI inference system using PyTorch, RabbitMQ
     - Instructed microservice architecture (MSA) for Fitzme service using Spring boot and Django
 
-* Working scholars, Infrastructure network management, *Zungwon Engineering & System, Inc.* (2010-2012, 2016)
+* Working scholars, Infra, Infrastructure network management, *Zungwon Engineering & System, Inc.* (2010-2012, 2016)
     - Monitored network status for Konkuk University, including wireless access point activity
     - Supported installation and set-up of routers and switches at newly constructed engineering building
     - Assisted in network installation for student and special events
