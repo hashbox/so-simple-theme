@@ -11,7 +11,7 @@ I'm a **Data Scientist** who studies object detection, and is also also a **DevO
 {: .notice}
 
 ### Education
-* Master of Computer Science and Engineering (MCSE), *[Intelligent Data Systems Laboratory](http://ids.snu.ac.kr/) Seoul National University, Korea* (2018~now)
+* Master of Computer Science and Engineering (MCSE), *[Intelligent Data Systems Laboratory](http://ids.snu.ac.kr/) Seoul National University, Korea* (2018~2020)
     - Member of Intelligence Data Systems Laboratory
     - Teaching Assistant of Graduate School Recommendation System 2020
 
@@ -22,7 +22,8 @@ I'm a **Data Scientist** who studies object detection, and is also also a **DevO
     - Leave of absence for military conscription, Republic of Korea Military Police (2014–2016)
 
 ### Experience
-* Team Leader, Intelligence, Architect and Cloud DevOps Engineer, *[IntelliSys Corporation](http://intellisys.co.kr)* (2018~now)
+* Engineer, AI Product, *[Clova CIC](https://clova.ai)*, *[Naver Corporation](https://navercorp.com)* (2020~now)
+* Team Leader, Intelligence, Architect and Cloud DevOps Engineer, *[IntelliSys Corporation](http://intellisys.co.kr)* (2018~2020)
     - Led packaging and installation of visual intelligence engine, including convert to Triton inference server for models
     - Conducted research of fashion item detector for service based on DeepLab using PyTorch
     - Implemented infrastructure using AWS Cloud, Kubernetes, Terraform
