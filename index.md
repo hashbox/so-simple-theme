@@ -4,7 +4,7 @@ show_excerpts: true
 title: Jeeseung Han
 ---
 
-#### Data Scientist (and is also DevOps)
+#### Data Scientist (and is also MLOps Engineer)
 ---
 Hello, I'm Jeeseung Han. <br/>
 I'm a **Data Scientist** who studies object detection, and is also also a **MLOps Engineer**.
